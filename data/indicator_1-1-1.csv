@@ -1,7 +1,7 @@
-Year,Location,Value
-2015,Urban,1
-2015,Rural,3
-2016,Urban,2
-2016,Rural,1
-2017,Urban,3
-2017,Rural,2
+Year,Location,Value,Age
+2015,Urban,1,22
+2015,Rural,3,11
+2016,Urban,2,25
+2016,Rural,1,13
+2017,Urban,3,42
+2017,Rural,2,52
